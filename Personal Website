@@ -34,21 +34,21 @@
     <div class="content">
       <img src="lights.jpg" alt="Lights" style="width:100%">
       <h3>My Work</h3>
-      <p>Lorem ipsum..</p>
+      <p>To be Added</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
       <img src="nature.jpg" alt="Nature" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum..</p>
+      <h3>Future Project</h3>
+      <p>To be Added.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
       <img src=" " alt=" " style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum..</p>
+      <h3>Future Project</h3>
+      <p>To be added</p>
     </div>
   </div>
 </div>
