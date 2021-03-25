@@ -7,3 +7,4 @@ Initially I created the repository first through the website itself but realized
 
 Afterwards I had to figure out how to link my first project from the file itself to the Portfolio
 I was able to make a copy of the code and add it as a link (href) to be seen as a second page to my Portfolio
+When I complete my other future projects, I will add them in as well as a constant update

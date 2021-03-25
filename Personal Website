@@ -9,6 +9,7 @@
     <!-- Bootstrap CSS -->
     <style>
     #welcome-section {
+      background-color: blue;
 
     }
     #project-section {
@@ -51,6 +52,11 @@
       <p>To be added</p>
     </div>
   </div>
+  <div class="column">
+    <div class= content">
+      <img src="vector-illustration-with-lettering-design-hire-me_12196-750.png" alt="Nature" style="width:100%">
+      <h3>Contact Me</h3>
+      <a href="mailto: burkz3905@gmail.com">Contact Me</a>
 </div>
 
     <!-- Optional JavaScript -->
