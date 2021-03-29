@@ -127,9 +127,9 @@
   <p>Footer Text</p>
 </footer>
 
-<button id="myBtn">Open Modal</button>
+<button id="myBtn">HELLO!!! CLICK THIS BUTTON!!</button>
 <div id="myModal" class="modal"> 
-  <div class="modal-content">
+  <div class="modal-content text-center">
     <span class="close">&times;</span>
     <p>Welcome To My Portfolio Website!</p>
   </div>
