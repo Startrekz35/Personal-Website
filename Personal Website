@@ -64,9 +64,9 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Home</a></li>
+        <li class="active"><a href="Personal Website">Home</a></li>
         <li><a href="#">About</a></li>
-        <li><a href="#">Gallery</a></li>
+        <li><a href="#">Future Projects</a></li>
         <li><a href="#">Contact</a></li>
       </ul>
     </div>
@@ -76,7 +76,7 @@
 <div class="jumbotron">
   <div class="container text-center">
     <h1>Startrekz35 Programming Portfolio</h1>      
-    <p>Some text that represents "Me"...</p>
+    <p>Me and my exploits with coding and Such</p>
   </div>
 </div>
   
