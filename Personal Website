@@ -118,7 +118,7 @@
     </div>
     <div class="col-sm-3">
       <p><a href="https://github.com/Startrekz35">Github Profile</a></a></p>
-      <img <a href="https://github.com/Startrekz35">src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png"</a> class="img-responsive" style="width:100%" alt="Image">
+      <a href="https://github.com/Startrekz35"><img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" class="img-responsive" style="width:100%" alt="Image"></a>
     </div>
   </div>
 </div><br><br>
