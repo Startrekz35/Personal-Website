@@ -88,15 +88,15 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1920px-Google_2015_logo.svg.png" class="img-responsive" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-3"> 
-      <p>Some text..</p>
+      <p>FUTURE PROJECTS</p>
       <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-3"> 
-      <p>Some text..</p>
+      <p>FUTURE PROJECTS</p>
       <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-3">
-      <p>Some text..</p>
+      <p>FUTURE PROJECTS</p>
       <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
     </div>
   </div>
@@ -105,26 +105,26 @@
 <div class="container-fluid bg-3 text-center">    
   <div class="row">
     <div class="col-sm-3">
-      <p>Some text..</p>
+      <p>FUTURE PROJECTS</p>
       <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-3"> 
-      <p>Some text..</p>
+      <p>FUTURE PROJECTS</p>
       <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-3"> 
-      <p>Some text..</p>
+      <p>FUTURE PROJECTS</p>
       <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-3">
-      <p>Some text..</p>
+      <p>FUTURE PROJECTS</p>
       <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
     </div>
   </div>
 </div><br><br>
 
 <footer class="container-fluid text-center">
-  <p>Footer Text</p>
+  <p>Made in 2021!</p>
 </footer>
 
 <button id="myBtn">HELLO!!! CLICK THIS BUTTON!!</button>
