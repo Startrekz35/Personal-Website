@@ -24,3 +24,5 @@ I couldn't remember how the current page was hightlighted without a script so I 
 The commit that had the huge overhaul in the layout of the code was where I noticed that the class="active" was hovered over the word: Home
 I then changed the class="active" based on which ever page I was currently on
 On the About Page I had to change the text color to contrast the background image 
+
+The toughest part about creating a Portfolio website that teaches you in the process and showcases your skills is that you have to make sure that the website has not only Browser Compatibility but also Mobile Compatibility
