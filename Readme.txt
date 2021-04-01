@@ -17,3 +17,10 @@ That meant hyperlinks had to be recreated and relinked
 I still have more to go but at least this website is finally online and linked to my very first project
 Although the base site is mobile friendly the google homepage is not so I'll have to figure out how to restructure it
 Good news is that I hyperlinked the page to my github profile so people can see the source code as well
+
+4/1: I started up my About me page and had to go through more trial and error to make it how I like
+At the same time I noticed that the navbar only highlighted the Home page no matter what page I currently was on
+I couldn't remember how the current page was hightlighted without a script so I looked at the previous commit
+The commit that had the huge overhaul in the layout of the code was where I noticed that the class="active" was hovered over the word: Home
+I then changed the class="active" based on which ever page I was currently on
+On the About Page I had to change the text color to contrast the background image 
