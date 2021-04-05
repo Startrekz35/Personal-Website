@@ -26,3 +26,5 @@ I then changed the class="active" based on which ever page I was currently on
 On the About Page I had to change the text color to contrast the background image 
 
 The toughest part about creating a Portfolio website that teaches you in the process and showcases your skills is that you have to make sure that the website has not only Browser Compatibility but also Mobile Compatibility
+
+4/4: In the meantime while I build this website I'm going to continue to learn more JavaScript so I can understand what I code
