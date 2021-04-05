@@ -29,4 +29,6 @@ The toughest part about creating a Portfolio website that teaches you in the pro
 
 4/4: In the meantime while I build this website I'm going to continue to learn more JavaScript so I can understand what I code
 
-4/5: I will be completely remaking my Google Homepage Project today 
+4/5: I will be completely remaking my Google Homepage Project today
+I'm making my contact me page but realize that once again I'll have to reorganize and hyperlink ALL of my pages
+Funny thing is I already started applying to jobs since I really have nothing to lose so I need to re-link everything NOW
