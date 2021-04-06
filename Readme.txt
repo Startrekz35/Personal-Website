@@ -32,3 +32,6 @@ The toughest part about creating a Portfolio website that teaches you in the pro
 4/5: I will be completely remaking my Google Homepage Project today
 I'm making my contact me page but realize that once again I'll have to reorganize and hyperlink ALL of my pages
 Funny thing is I already started applying to jobs since I really have nothing to lose so I need to re-link everything NOW
+
+4/6: Today I've learned that PHP isn't supported through GitHub Pages so I'll just make a note to have people actually send me an email if they want
+I don't know if I should use JavaScript to have people send me an email or if I should leave this up as a example of me using PHP to create and put together code as a Future Project
