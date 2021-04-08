@@ -39,3 +39,5 @@ I don't know if I should use JavaScript to have people send me an email or if I 
 By the suggestion of a viewer of the website I will be redesigning the Front Page and some other parts to have a cleaner look
 
 Right now I'm trying to figure out how to add an ahref to an overlay because that's what most of my front page would be
+
+I needed to create a maintenance page because I didn't want my page being in disarray while visitors came to check it out
