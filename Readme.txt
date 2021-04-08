@@ -1,4 +1,4 @@
-This is a showcase of my skills creating a website using HTML/CSS/JS/TS
+This is a showcase of my skills creating a website using HTML/CSS/JS/TS/Bootstrap Framework
 
 3/24-3/29: With the help of Bootstrap I quickly created a template to get started and seperate my HTML/CSS/JS
 I also created the repository link on GitHub/about to upload the cloned progress to the site
@@ -33,5 +33,9 @@ The toughest part about creating a Portfolio website that teaches you in the pro
 I'm making my contact me page but realize that once again I'll have to reorganize and hyperlink ALL of my pages
 Funny thing is I already started applying to jobs since I really have nothing to lose so I need to re-link everything NOW
 
-4/6: Today I've learned that PHP isn't supported through GitHub Pages so I'll just make a note to have people actually send me an email if they want
+4/6-4/8: Today I've learned that PHP isn't supported through GitHub Pages so I'll just make a note to have people actually send me an email if they want
 I don't know if I should use JavaScript to have people send me an email or if I should leave this up as a example of me using PHP to create and put together code as a Future Project
+
+By the suggestion of a viewer of the website I will be redesigning the Front Page and some other parts to have a cleaner look
+
+Right now I'm trying to figure out how to add an ahref to an overlay because that's what most of my front page would be
