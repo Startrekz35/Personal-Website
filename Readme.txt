@@ -41,3 +41,6 @@ By the suggestion of a viewer of the website I will be redesigning the Front Pag
 Right now I'm trying to figure out how to add an ahref to an overlay because that's what most of my front page would be
 
 I needed to create a maintenance page because I didn't want my page being in disarray while visitors came to check it out
+
+Got my first Application reject email
+Time to kick the dust from my feet and keep moving
