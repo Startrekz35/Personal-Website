@@ -44,3 +44,5 @@ I needed to create a maintenance page because I didn't want my page being in dis
 
 Got my first Application reject email
 Time to kick the dust from my feet and keep moving
+
+4/9: I'm going to finish up linking things together and do some projects and learn more JavaScript
