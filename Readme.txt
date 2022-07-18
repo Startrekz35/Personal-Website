@@ -46,3 +46,7 @@ Got my first Application reject email
 Time to kick the dust from my feet and keep moving
 
 4/9: I'm going to finish up linking things together and do some projects and learn more JavaScript
+
+
+7/18/22: Okay so I lied. I decided to learn C++ shortly after I posted that update on 4/9/21
+I will be updating this page here and there but it will not be a priority
